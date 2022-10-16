@@ -102,7 +102,7 @@ git push -u origin main
 * [ ] Sprawdz pomoc na temat polecen
 
 ```dos
-git man push
+git --help push
 ```
 
 * [ ] Zmodyfikuj plik pb.txt i wrzuc zmiany na server (add, commit, push)
